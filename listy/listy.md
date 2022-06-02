@@ -15,5 +15,5 @@ for - pętla ( for nazwa_zmiennej in nazwa_listy / range()) <br />
                   lista = [1,2,3,4,5,6]
 ``
 
-print(lista[:3])
+print(lista[:3])<br />
   1     2    3
