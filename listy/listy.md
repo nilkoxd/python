@@ -21,5 +21,5 @@ print(lista[:3])<br />
 1 - wyświetl\
 2 - nazwa listy\
 3 - skrócenie do 3 indexu listy\
-      >>> 1,2,3
+      `>>> 1,2,3`
      
