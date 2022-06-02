@@ -13,7 +13,7 @@ for - pętla ( for nazwa_zmiennej in nazwa_listy / range()) <br />
 # Zadania
 ## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;lista = [1,2,3,4,5,6]
 
------ Zadanie 1 ------
+##### Zadanie 1
 print(lista[:3])<br />
 &emsp;1&emsp;2&emsp; 3
 
