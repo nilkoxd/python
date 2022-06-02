@@ -16,4 +16,4 @@ for - pętla ( for nazwa_zmiennej in nazwa_listy / range()) <br />
 ``
 
 print(lista[:3])<br />
-&emsp;1     2    3
+&emsp;1&emsp;2&emsp;3
