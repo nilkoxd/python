@@ -1,6 +1,6 @@
 #LISTY PYTHON
 
-x - zmienna (nazwa dowolna , bez spacji)\n
+x - zmienna (nazwa dowolna , bez spacji)<br />
 input() - wprowadzenie danych z klawiatury("a","3","b","df")
 int() - liczby całkowite ( 1,2,3,4)
 float() - liczby z ułamkami (1.5 , 1.6)
