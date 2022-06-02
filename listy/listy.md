@@ -11,7 +11,7 @@ for - pętla ( for nazwa_zmiennej in nazwa_listy / range()) <br />
 .insert(x,y) - dodawanie w dowolnym miejscu w liście ( x - index na który ma zostać dodany , y - co ma zostać dodane)<br />
 
 # Zadania
-## lista = [1,2,3,4,5,6]
+## &emsp;&emsp;&emsp;lista = [1,2,3,4,5,6]
 
 print(lista[:3])<br />
 &emsp;1&emsp;2&emsp; 3
